@@ -1,1 +1,6 @@
-this a repo for Lamchhe.
+bash# Ignore everything
+*
+# But don't ignore the folder you want
+!/Users/harishrestha/Desktop/lamchhe-web
+# If the folder is inside another ignored folder, you must unignore each parent
+
