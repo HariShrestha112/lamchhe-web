@@ -1,5 +1,6 @@
 .link{
-    :hover{
+    color:blue;
+    &:hover{
         color:blue($color: #000000);
         text-decoration: underline;
     }
